@@ -114,7 +114,7 @@ time.sleep(4)
 pyautogui.click(x=74, y=202 )
 time.sleep(10)
 #escrever o destinatario 
-pyautogui.write("xfakeclash@gmail.com")
+pyautogui.write("Colocar o email do destinatario")
 pyautogui.press("tab")
 pyautogui.press("tab")
 #passar para o asunto
